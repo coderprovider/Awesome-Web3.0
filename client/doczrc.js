@@ -16,4 +16,4 @@ export default {
     ],
     description:"Web3 Roadmap and free Resources to learn and ace",
     public: '/public'
-  }
+  } 
